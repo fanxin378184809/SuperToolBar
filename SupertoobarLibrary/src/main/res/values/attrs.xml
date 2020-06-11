@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SuperToolBar">
+        <attr name="stb_titleColor" format="color" /><!--主标题文字颜色-->
+        <attr name="stb_titleSize" format="dimension" /><!--主标题文字大小-->
+        <attr name="stb_title" format="string" /><!--主标题文字-->
+        <attr name="stb_backImgColor" format="color" /><!--返回键颜色-->
+        <!--返回键是否是正方形，高度一致-->
+        <attr name="stb_backImgSquare" format="boolean" /><!--返回键是否是正方形-->
+        <!--返回键的内间距-->
+        <attr name="stb_backImgPadding" format="dimension" /><!--按钮的间距-->
+        <attr name="stb_bottonLineColor" format="color" /><!--底部的线的颜色-->
+        <attr name="stb_actionTextColor" format="color" /><!--按钮文字的颜色-->
+        <attr name="stb_bottonLineHeight" format="dimension" /><!--底部的线的宽度-->
+        <attr name="stb_backImg" format="reference" /><!--返回按钮在资源文件中-->
+
+        <attr name="stb_notificationBagColor" format="color" />
+        <attr name="stb_notificationTextColor" format="color" />
+        <attr name="stb_notificationStrokeColor" format="color" />
+        <attr name="stb_androidMTranslucentStatusBagColor" format="color" />
+
+        <attr name="stb_actionPadding" format="dimension" />
+        <attr name="stb_actionWidth" format="dimension" />
+        <attr name="stb_actionHeight" format="dimension" />
+
+    </declare-styleable>
+
+</resources>

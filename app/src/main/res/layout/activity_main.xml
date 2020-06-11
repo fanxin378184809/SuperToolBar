@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.fanxin.supertoobar.SuperToolBar
+        android:id="@+id/supertoolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#03a9f4"
+        app:stb_title="测试标题"
+        app:stb_titleColor="#ffffff"
+        app:stb_backImgColor="#00ff00"
+        app:stb_bottonLineHeight="1dp"
+        app:stb_bottonLineColor="#ff000000"
+        app:stb_actionTextColor="#ff0000"
+        app:stb_actionHeight="40dp"
+        app:stb_actionWidth="40dp"
+        />
+
+</LinearLayout>
