@@ -1,5 +1,5 @@
+[![](https://www.jitpack.io/v/fanxin378184809/SuperToolBar.svg)](https://www.jitpack.io/#fanxin378184809/SuperToolBar)
 
-[![](https://jitpack.io/v/fanxin378184809/SuperToolBar.svg)](https://jitpack.io/#fanxin378184809/SuperToolBar)
 
 # **SuperToolBar**
 1:分装顶部标题栏
